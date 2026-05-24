@@ -1,0 +1,64 @@
+<svg width="1200" height="620" viewBox="0 0 1200 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="620" rx="28" fill="#0d1117"/>
+  <circle cx="1040" cy="88" r="106" fill="#101820"/>
+  <path d="M970 134L1089 70L1050 22L944 121C934 130 947 146 970 134Z" fill="#4cff20" opacity="0.86"/>
+  <path d="M938 620C956 532 1006 484 1084 484C1154 484 1192 533 1200 620H938Z" fill="#0f7a55" opacity="0.68"/>
+
+  <text x="60" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="800" fill="#f0f3f6">Lenguajes en repos publicos</text>
+  <text x="60" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#c9d1d9">Calculado con GitHub Languages; la mayoria viene de APH, RTA, RFD y apps TypeScript.</text>
+
+  <rect x="60" y="168" width="1080" height="34" rx="17" fill="#21262d"/>
+  <rect x="60" y="168" width="640" height="34" rx="17" fill="#4cff20"/>
+  <rect x="700" y="168" width="159" height="34" fill="#0f7a55"/>
+  <rect x="859" y="168" width="78" height="34" fill="#e8dec2"/>
+  <rect x="937" y="168" width="50" height="34" fill="#58a6ff"/>
+  <rect x="987" y="168" width="48" height="34" fill="#7ee787"/>
+  <rect x="1035" y="168" width="40" height="34" fill="#f2cc60"/>
+  <rect x="1075" y="168" width="34" height="34" fill="#a371f7"/>
+  <rect x="1109" y="168" width="19" height="34" fill="#ffab70"/>
+  <rect x="1128" y="168" width="12" height="34" rx="6" fill="#c9d1d9"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="24">
+    <circle cx="78" cy="260" r="11" fill="#4cff20"/>
+    <text x="105" y="268" fill="#f0f3f6">C#</text>
+    <text x="335" y="268" fill="#c9d1d9">59.3%</text>
+
+    <circle cx="78" cy="312" r="11" fill="#0f7a55"/>
+    <text x="105" y="320" fill="#f0f3f6">Python</text>
+    <text x="335" y="320" fill="#c9d1d9">14.7%</text>
+
+    <circle cx="78" cy="364" r="11" fill="#e8dec2"/>
+    <text x="105" y="372" fill="#f0f3f6">HTML</text>
+    <text x="335" y="372" fill="#c9d1d9">7.2%</text>
+
+    <circle cx="78" cy="416" r="11" fill="#58a6ff"/>
+    <text x="105" y="424" fill="#f0f3f6">TypeScript</text>
+    <text x="335" y="424" fill="#c9d1d9">4.6%</text>
+
+    <circle cx="78" cy="468" r="11" fill="#7ee787"/>
+    <text x="105" y="476" fill="#f0f3f6">JavaScript</text>
+    <text x="335" y="476" fill="#c9d1d9">4.4%</text>
+
+    <circle cx="545" cy="260" r="11" fill="#f2cc60"/>
+    <text x="572" y="268" fill="#f0f3f6">Java</text>
+    <text x="802" y="268" fill="#c9d1d9">3.7%</text>
+
+    <circle cx="545" cy="312" r="11" fill="#a371f7"/>
+    <text x="572" y="320" fill="#f0f3f6">Rust</text>
+    <text x="802" y="320" fill="#c9d1d9">3.1%</text>
+
+    <circle cx="545" cy="364" r="11" fill="#ffab70"/>
+    <text x="572" y="372" fill="#f0f3f6">Svelte</text>
+    <text x="802" y="372" fill="#c9d1d9">1.7%</text>
+
+    <circle cx="545" cy="416" r="11" fill="#c9d1d9"/>
+    <text x="572" y="424" fill="#f0f3f6">CSS</text>
+    <text x="802" y="424" fill="#c9d1d9">0.8%</text>
+
+    <circle cx="545" cy="468" r="11" fill="#39d353"/>
+    <text x="572" y="476" fill="#f0f3f6">C++</text>
+    <text x="802" y="476" fill="#c9d1d9">0.5%</text>
+  </g>
+
+  <text x="60" y="560" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#8b949e">Repos incluidos: Account Controller, Token Count Controller, Narralynk, RFD, Task Notifier App, esp32-water-doser, RTA y APH.</text>
+</svg>

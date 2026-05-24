@@ -1,0 +1,15 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="320" rx="28" fill="#0d1117"/>
+  <circle cx="1020" cy="108" r="138" fill="#18211d"/>
+  <circle cx="1020" cy="108" r="116" fill="#101820"/>
+  <path d="M874 320C892 232 943 180 1018 180C1093 180 1146 232 1162 320H874Z" fill="#0f7a55"/>
+  <path d="M954 168L1094 95L1050 34L925 150C913 161 927 182 954 168Z" fill="#4cff20"/>
+  <path d="M938 157L1055 50" stroke="#d8f8c8" stroke-width="8" stroke-linecap="round" opacity="0.45"/>
+  <circle cx="1020" cy="108" r="116" stroke="#2b3138" stroke-width="6"/>
+  <path d="M0 248C155 205 282 231 407 258C556 290 675 278 812 232C949 186 1074 199 1200 242V320H0V248Z" fill="#0f7a55" opacity="0.42"/>
+  <path d="M0 282C143 239 284 252 424 284C579 318 722 302 873 264C1005 231 1114 236 1200 260V320H0V282Z" fill="#4cff20" opacity="0.2"/>
+  <text x="70" y="105" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="800" fill="#f0f3f6">AHV-Dev</text>
+  <text x="73" y="154" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="600" fill="#4cff20">Alexsandro215</text>
+  <text x="73" y="207" font-family="Segoe UI, Arial, sans-serif" font-size="25" fill="#c9d1d9">Backend | desktop | data | hardware</text>
+  <text x="73" y="247" font-family="Segoe UI, Arial, sans-serif" font-size="23" fill="#e8dec2">TypeScript | SQLite | PostgreSQL | C# | Python | ESP32</text>
+</svg>
