@@ -1,6 +1,6 @@
 ![AHV-Dev banner](assets/profile-banner.svg)
 
-Soy **Alexsandro Hernández Vargas (AHV-Dev)**, Ingeniero en Sistemas Computacionales. Construyo software que se usa todos los días: apps de escritorio, herramientas de datos y modelos predictivos, automatizaciones, bots y firmware para ESP32. Me gusta resolver el problema completo, desde la base de datos y la seguridad hasta la pantalla que usa la persona.
+Soy **Alexsandro Hernández Vargas (AHV-Dev)**, desarrollador de software. Construyo software que se usa todos los días: apps de escritorio, herramientas de datos y modelos predictivos, automatizaciones, bots y firmware para ESP32. Me gusta resolver el problema completo, desde la base de datos y la seguridad hasta la pantalla que usa la persona.
 
 > Entender el pasado, para comprender el presente y construir el futuro.
 
