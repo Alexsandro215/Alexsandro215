@@ -42,8 +42,8 @@ Cada proyecto tiene capturas reales del programa funcionando (con datos de demos
       <sub>Python · PyTorch · LightGBM · scikit-learn</sub>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/proyectos/all-publisher.webp" alt="All Publisher: vista previa en cuatro redes" width="100%"><br>
-      <strong>All Publisher</strong> · <sub>código privado</sub><br>
+      <a href="https://github.com/Alexsandro215/ALL-PUBLISHER"><img src="assets/proyectos/all-publisher.webp" alt="All Publisher: vista previa en cuatro redes" width="100%"></a><br>
+      <a href="https://github.com/Alexsandro215/ALL-PUBLISHER"><strong>All Publisher</strong></a><br>
       Publica una vez en YouTube, TikTok, Instagram y Facebook: valida cada red, vista previa en el móvil y reintenta solo la red que falló.<br>
       <sub>TypeScript · React · Express · Playwright</sub>
     </td>
@@ -56,8 +56,8 @@ Cada proyecto tiene capturas reales del programa funcionando (con datos de demos
       <sub>Python · FastAPI · ccxt · Plotly</sub>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/proyectos/tradinglab.webp" alt="TradingLab: backtest contra referencias" width="100%"><br>
-      <strong>TradingLab</strong> · <sub>código privado</sub><br>
+      <a href="https://github.com/Alexsandro215/TradingLab"><img src="assets/proyectos/tradinglab.webp" alt="TradingLab: backtest contra referencias" width="100%"></a><br>
+      <a href="https://github.com/Alexsandro215/TradingLab"><strong>TradingLab</strong></a><br>
       Laboratorio de estrategias sin dinero real: backtests con costos reales, walk-forward y comparación obligatoria contra no operar.<br>
       <sub>Python · pandas · SQLite · 96 pruebas</sub>
     </td>
