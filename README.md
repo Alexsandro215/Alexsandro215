@@ -117,8 +117,8 @@ Cada proyecto público tiene capturas reales del programa funcionando (con datos
       <sub>C# · .NET 10 · WPF · EF Core · SQLite</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Alexsandro215/Narralynk"><img src="assets/proyectos/narralynk.webp" alt="Narralynk: tablero de capítulos" width="100%"></a><br>
-      <a href="https://github.com/Alexsandro215/Narralynk"><strong>Narralynk</strong></a> · <sub>prototipo</sub><br>
+      <img src="assets/proyectos/narralynk.webp" alt="Narralynk: tablero de capítulos" width="100%"><br>
+      <strong>Narralynk</strong> · <sub>código privado · prototipo</sub><br>
       Tablero visual para escribir historias por capítulos y escenas, con arrastrar y soltar.<br>
       <sub>React 19 · Zustand · dnd-kit</sub>
     </td>
